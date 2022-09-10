@@ -1,2 +1,2 @@
 # Tesla-Homepage
-This is a simple project using html and css 
+This is a simple project using Html and Css 
